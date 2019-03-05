@@ -8,11 +8,12 @@ Learning Golang.
 * [Go中国技术社区](https://gocn.io/)
 * [Go语言从入门到实战](https://time.geekbang.org/course/intro/160)
 
-邀请：
+Go语言从入门到实战 邀请链接：
+![](docs/images/go_course.jpeg)
 
 
 ## IDE
-[Atom](https://atom.io/)
-[Atom go-plus](https://atom.io/packages/go-plus)
-[VS Code](https://code.visualstudio.com/)
-[IDEs and Plugins for Go](https://github.com/golang/go/wiki/IDEsAndTextEditorPlugins)
+* [Atom](https://atom.io/)
+* [Atom go-plus](https://atom.io/packages/go-plus)
+* [VS Code](https://code.visualstudio.com/)
+* [IDEs and Plugins for Go](https://github.com/golang/go/wiki/IDEsAndTextEditorPlugins)

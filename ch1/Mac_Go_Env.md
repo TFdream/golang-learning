@@ -29,3 +29,8 @@ export GOPATH=/Users/apple/Ricky/Go
 export GOBIN=$GOPATH/bin
 export PATH=$PATH:$GOBIN
 ```
+
+使修改立刻生效:
+```
+source .bash_profile
+```

@@ -25,7 +25,7 @@ go version go1.12 darwin/amd64
 
 在文件中添加如下参数：
 ```
-export GOPATH=/Users/apple/Ricky/Go
+export GOPATH=/Users/apple/Ricky/go
 export GOBIN=$GOPATH/bin
 export PATH=$PATH:$GOBIN
 ```

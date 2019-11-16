@@ -16,6 +16,7 @@ Learning Golang.
 ## 资源
 * [GoBooks](https://github.com/dariubs/GoBooks)
 * [awesome-go](https://github.com/avelino/awesome-go)
+* [Go 学习之路](https://github.com/yangwenmai/learning-golang)
 
 ## 社区
 * [Go中国技术社区](https://gocn.io/)

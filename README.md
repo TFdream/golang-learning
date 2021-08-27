@@ -1,5 +1,5 @@
-# go-tutorials
-Learning Golang.
+# golang-learning
+go学习笔记。
 
 ## 教程
 * [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
@@ -17,6 +17,7 @@ Learning Golang.
 * [GoBooks](https://github.com/dariubs/GoBooks)
 * [awesome-go](https://github.com/avelino/awesome-go)
 * [Go 学习之路](https://github.com/yangwenmai/learning-golang)
+* [biezhi - 给Java程序员的Go私房菜-视频](https://github.com/biezhi/lets-golang)
 
 ## 社区
 * [Go中国技术社区](https://gocn.io/)

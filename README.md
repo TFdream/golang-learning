@@ -18,6 +18,7 @@ go学习笔记。
 * [awesome-go](https://github.com/avelino/awesome-go)
 * [Go 学习之路](https://github.com/yangwenmai/learning-golang)
 * [biezhi - 给Java程序员的Go私房菜-视频](https://github.com/biezhi/lets-golang)
+* [0voice - Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang)
 
 ## 社区
 * [Go中国技术社区](https://gocn.io/)

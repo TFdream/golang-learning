@@ -31,6 +31,10 @@ go学习笔记。
 
 *注：排名不分先后。
 
+## Go 语言编码规范
+* [Uber Go 语言编码规范](https://github.com/xxjwxc/uber_go_guide_cn)
+
+
 ## IDE
 * [Atom](https://atom.io/)
 * [Atom go-plus](https://atom.io/packages/go-plus)
